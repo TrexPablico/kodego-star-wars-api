@@ -1,0 +1,311 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Luke Skywalker",
+      "species": "human",
+      "homeworld": "Tatooine",
+      "allegiance": "Rebel Alliance",
+      "thumbnail": "/images/luke.jpg",
+      "about": "Luke Skywalker is known for being a skilled Jedi Knight, a hero of the Rebel Alliance, the redeemer of his father, Darth Vader, and one of the last Jedi in the galaxy. His story embodies bravery, heroism, and the enduring struggle between good and evil in the Star Wars universe."
+    },
+    {
+      "id": 2,
+      "name": "Anakin Skywalker",
+      "species": "Human",
+      "homeworld": "Tatooine",
+      "allegiance": ["Jedi Order, Galactic Republic"],
+      "thumbnail": "/images/anakin.jpg",
+      "about": "Anakin Skywalker is a complex and conflicted character in the Star Wars saga. Born as a slave on the desert planet of Tatooine, he is discovered by the Jedi and trained in the ways of the Force. Anakin shows exceptional talent and potential as a Jedi Knight, earning a reputation for his bravery and skill in battle during the Clone Wars."
+    },
+    {
+      "id": 3,
+      "name": "Han Solo",
+      "species": "Human",
+      "homeworld": "Corellia",
+      "allegiance": "Rebel Alliance",
+      "thumbnail": "/images/HanSolo.jpg",
+      "about": "Han Solo is a charismatic and skilled pilot, renowned for his daring exploits and roguish charm in the Star Wars saga. Hailing from the planet Corellia, Solo is a former smuggler who becomes a key figure in the Rebel Alliance's struggle against the tyrannical Galactic Empire. He pilots the iconic Millennium Falcon alongside his loyal co-pilot Chewbacca, and his unexpected heroism plays a crucial role in pivotal battles, such as the rescue of Princess Leia Organa and the destruction of the Death Star."
+    },
+    {
+      "id": 4,
+      "name": "Obi-Wan Kenobi",
+      "species": "Human",
+      "homeworld": "Stewjon",
+      "allegiance": "Jedi Order",
+      "thumbnail": "/images/ObiWan.jpg",
+      "about": "Obi-Wan Kenobi is a revered Jedi Master in the Star Wars saga, known for his wisdom, skill with the Force, and commitment to the Jedi Code. Born on the planet Stewjon, Obi-Wan becomes a key figure in galactic history as both a Jedi Knight and later a Jedi Master. He serves as a mentor to Anakin Skywalker, guiding him through his training despite the challenges posed by Anakin's inner turmoil."
+    },
+    {
+      "id": 5,
+      "name": "Yoda",
+      "species": "Unknown (Yoda's species)",
+      "homeworld": "Unknown",
+      "allegiance": "Jedi Order",
+      "thumbnail": "/images/yoda.jpg",
+      "about": "Yoda is a revered and iconic character in the Star Wars saga, known for his wisdom, mastery of the Force, and unique speaking style. As the Grand Master of the Jedi Order, Yoda is one of the oldest and most powerful Jedi in the galaxy."
+    },
+    {
+      "id": 6,
+      "name": "Chewbacca",
+      "species": "Wookiee",
+      "homeworld": "Kashyyyk",
+      "allegiance": "Rebel Alliance",
+      "thumbnail": "/images/chewbacca.jpg",
+      "about": "Chewbacca, often affectionately referred to as Chewie, is a beloved character in the Star Wars saga known for his loyalty, bravery, and distinctive growl. Hailing from the forested planet of Kashyyyk, Chewbacca is a Wookiee, a species known for their strength and honor. As the loyal companion of Han Solo, Chewbacca serves as the co-pilot of the iconic starship, the Millennium Falcon."
+    },
+    {
+      "id": 7,
+      "name": "Princess Leia Organa",
+      "species": "Human",
+      "homeworld": "Alderaan",
+      "allegiance": "Rebel Alliance",
+      "thumbnail": "/images/Leia.jpg",
+      "about": "Princess Leia Organa is a pivotal character in the Star Wars saga, known for her bravery, intelligence, and leadership. Born into the royal family of Alderaan, Leia is raised with a strong sense of duty and a commitment to fighting injustice in the galaxy."
+    },
+    {
+      "id": 8,
+      "name": "Darth Vader",
+      "species": "Human",
+      "homeworld": "Tatooine",
+      "allegiance": "Sith Order, Galactic Empire",
+      "thumbnail": "/images/vader.jpg",
+      "about": "Darth Vader, once known as Anakin Skywalker, is one of the most iconic and complex characters in the Star Wars saga. Trained as a Jedi Knight, Anakin Skywalker was hailed as the Chosen One destined to bring balance to the Force. However, seduced by the dark side of the Force and manipulated by Emperor Palpatine, Anakin ultimately falls from grace and becomes Darth Vader."
+    },
+    {
+      "id": 9,
+      "name": "Darth Maul",
+      "species": "Zabrak",
+      "homeworld": "Dathomir",
+      "allegiance": "Sith Order",
+      "thumbnail": "/images/maul.jpg",
+      "about": "Darth Maul is a formidable and iconic villain in the Star Wars saga, known for his menacing appearance, martial prowess, and unwavering loyalty to the dark side of the Force. Born on the planet Dathomir, Maul is a Zabrak warrior who becomes a Sith Lord and apprentice to Darth Sidious, the future Emperor Palpatine."
+    },
+    {
+      "id": 10,
+      "name": "Emperor Palpatine",
+      "species": "Human",
+      "homeworld": "Naboo",
+      "allegiance": "Sith Order, Galactic Empire",
+      "thumbnail": "/images/palpatine.jpg",
+      "about": "Emperor Palpatine, also known as Darth Sidious, is one of the most cunning and manipulative villains in the Star Wars saga. Born on the planet Naboo, Palpatine rises to power as a Senator in the Galactic Republic while secretly operating as a Dark Lord of the Sith."
+    },
+    {
+      "id": 11,
+      "name": "Kylo Ren",
+      "species": "Human",
+      "homeworld": "Unknown",
+      "allegiance": "First Order",
+      "about": "Kylo Ren, originally born as Ben Solo, is the son of Leia Organa and Han Solo. He was trained as a Jedi by his uncle, Luke Skywalker, but was seduced by the dark side of the Force and became a powerful Sith apprentice under Supreme Leader Snoke. Kylo Ren is known for his conflicted nature, torn between the light and dark sides of the Force, as well as his fierce loyalty to the First Order and his relentless pursuit of power.",
+      "thumbnail": "/images/kylo.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Rey",
+      "species": "Human",
+      "homeworld": "Jakku",
+      "allegiance": "Resistance",
+      "about": "Rey is a resilient and resourceful young woman who grew up as a scavenger on the desert planet of Jakku. She possesses a strong connection to the Force and discovers her latent Force sensitivity during her journey. Rey becomes a key figure in the Resistance's fight against the First Order, guided by her sense of justice and desire to protect the galaxy from tyranny. Throughout her adventures, Rey seeks to uncover the truth about her mysterious past and her connection to the Force, ultimately embracing her destiny as a Jedi.",
+      "thumbnail": "/images/rey.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Finn",
+      "species": "Human",
+      "homeworld": "Unknown (originally raised on Starkiller Base)",
+      "allegiance": "Resistance",
+      "about": "Finn, formerly known as FN-2187, is a former stormtrooper of the First Order who defects from his organization after witnessing their brutality. He joins the Resistance, where he becomes an integral part of their fight against the First Order.",
+      "thumbnail": "/images/finn.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Boba Fett",
+      "species": "Human (Clone)",
+      "homeworld": "Kamino",
+      "allegiance": "Bounty Hunters Guild",
+      "about": "Boba Fett is a feared bounty hunter known for his formidable skills and ruthless efficiency. He is a clone of the bounty hunter Jango Fett, raised as his son on the planet Kamino. Boba Fett is renowned for his expertise in tracking and capturing targets, as well as his iconic Mandalorian armor and helmet.",
+      "thumbnail": "/images/boba.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Count Dooku",
+      "species": "Human",
+      "homeworld": "Serenno",
+      "allegiance": "Sith Order, Confederacy of Independent Systems",
+      "about": "Count Dooku, also known as Darth Tyranus, is a former Jedi Master who fell to the dark side of the Force and became a Sith Lord. He is a skilled and manipulative politician, serving as the leader of the Confederacy of Independent Systems during the Clone Wars. Count Dooku is a master duelist, wielding a unique curved lightsaber with deadly precision.",
+      "thumbnail": "/images/dooku.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Ahsoka Tano",
+      "species": "Togruta",
+      "homeworld": "Shili",
+      "allegiance": "Jedi Order, Galactic Republic, Rebel Alliance",
+      "about": "Ahsoka Tano is a Togruta Jedi Padawan who served as the apprentice of Anakin Skywalker during the Clone Wars. She is known for her courage, resourcefulness, and strong sense of justice. Ahsoka played a vital role in many key battles of the Clone Wars, earning respect and admiration from her fellow Jedi and soldiers alike.",
+      "thumbnail": "/images/ashoka.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Mace Windu",
+      "species": "Human",
+      "homeworld": "Haruun Kal",
+      "allegiance": "Jedi Order, Galactic Republic",
+      "about": "Mace Windu is a highly respected Jedi Master known for his exceptional skills in lightsaber combat and his unwavering dedication to the Jedi Code. He serves as a member of the Jedi High Council during the final years of the Galactic Republic.",
+      "thumbnail": "/images/mace.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Qui-Gon Jinn",
+      "species": "Human",
+      "homeworld": "Unknown (originally from Coruscant)",
+      "allegiance": "Jedi Order",
+      "about": "Qui-Gon Jinn is a wise and unconventional Jedi Master known for his deep connection to the Living Force and his adherence to the Jedi Code. He serves as a mentor to Obi-Wan Kenobi and plays a key role in the events leading to the rise of Anakin Skywalker.",
+      "thumbnail": "/images/qui.jpg"
+    },
+    {
+      "id": 19,
+      "name": "General Grievous",
+      "species": "Kaleesh (cyborg)",
+      "homeworld": "Kalee",
+      "allegiance": "Separatists",
+      "about": "General Grievous is a fearsome cyborg warrior and the Supreme Commander of the Droid Army of the Confederacy of Independent Systems. He was originally a Kaleesh warrior named Qymaen jai Sheelal, but after suffering grievous injuries in a shuttle crash, he was rebuilt as a cyborg by the Sith Lord Count Dooku.",
+      "thumbnail": "/images/grievous.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Captain Phasma",
+      "species": "Human (unknown origin)",
+      "homeworld": "Unknown",
+      "allegiance": "First Order",
+      "about": "Captain Phasma, also known as Chrome Dome, is a high-ranking officer in the First Order and the commander of the stormtrooper unit known as the FN Corps.",
+      "thumbnail": "/images/phasma.jpg"
+    },
+    {
+      "id": 21,
+      "name": "C-3PO",
+      "species": "Droid",
+      "homeworld": "Tatooine",
+      "allegiance": "Rebel Alliance, Resistance",
+      "about": "C-3PO, often referred to simply as Threepio, is a protocol droid designed to assist in human-cyborg relations. He is fluent in over six million forms of communication and serves as a translator and interpreter for his companions. C-3PO is known for his polite and fastidious personality, often expressing concern and worry in precarious situations.",
+      "thumbnail": "/images/c3po.jpg"
+    },
+    {
+      "id": 22,
+      "name": "R2-D2",
+      "species": "Astromech droid",
+      "homeworld": "Naboo",
+      "allegiance": "Rebel Alliance, Resistance",
+      "about": "R2-D2, also known as Artoo, is an astromech droid known for his resourcefulness, bravery, and loyalty to his friends. He is equipped with a variety of tools and gadgets that make him invaluable in a wide range of situations, from repairing starships to hacking computer systems.",
+      "thumbnail": "/images/r2d2.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Lando Calrissian",
+      "species": "Human",
+      "homeworld": "Socorro",
+      "allegiance": "Rebel Alliance, Galactic Empire",
+      "about": "Lando Calrissian is a charming and suave human smuggler, gambler, and former owner of the Millennium Falcon. He is known for his smooth-talking demeanor and knack for getting out of tight spots. Lando has a complex history with the Rebel Alliance and the Galactic Empire, having initially aligned himself with the Empire before ultimately siding with the Rebellion.",
+      "thumbnail": "/images/lando.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Jar Jar Binks",
+      "species": "Gungan",
+      "homeworld": "Naboo",
+      "allegiance": "Galactic Republic",
+      "about": "Jar Jar Binks is a Gungan from the underwater city of Otoh Gunga on the planet Naboo. He is known for his clumsy and bumbling nature, often inadvertently causing chaos and mishaps. Despite his clumsiness, Jar Jar possesses a kind heart and a desire to help his friends.",
+      "thumbnail": "/images/jarjar.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Padmé Amidala",
+      "species": "Human",
+      "homeworld": "Naboo",
+      "allegiance": "Galactic Republic, Rebel Alliance",
+      "about": "Padmé Amidala is a courageous and dedicated leader who serves as the Queen of Naboo and later as a Senator in the Galactic Senate. She is known for her intelligence, diplomacy, and unwavering commitment to justice and democracy. Padmé plays a pivotal role in the events leading up to the Clone Wars and is a key figure in the fight against the rise of the Sith and the corruption within the Republic.",
+      "thumbnail": "/images/padme.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Jabba the Hutt",
+      "species": "Hutt",
+      "homeworld": "Nal Hutta",
+      "allegiance": "Jabba's criminal empire",
+      "about": "Jabba the Hutt is a notorious and powerful crime lord who controls a vast criminal empire in the Outer Rim Territories. He is a member of the Hutt species, known for their large size, long lifespans, and cunning nature.",
+      "thumbnail": "/images/jabba.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Jango Fett",
+      "species": "Human",
+      "homeworld": "Concord Dawn",
+      "allegiance": "Bounty Hunters' Guild, Sith (temporarily)",
+      "about": "Jango Fett is a skilled and deadly bounty hunter known for his prowess in combat and his association with the Sith. He is a human from the planet Concord Dawn, renowned for his proficiency in various forms of combat and his mastery of Mandalorian armor. Jango is chosen by the Sith Lord Count Dooku to be the genetic template for the clone army commissioned by the Galactic Republic.",
+      "thumbnail": "/images/jango.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Admiral Thrawn",
+      "species": "Chiss",
+      "homeworld": "Csilla",
+      "allegiance": "Galactic Empire, Chiss Ascendancy",
+      "about": "Admiral Thrawn, also known as Mitth'raw'nuruodo, is a brilliant strategist and military commander hailing from the Unknown Regions. He is a member of the Chiss species, known for their blue skin and red eyes, and is renowned for his tactical genius and keen understanding of art and culture. Thrawn rises through the ranks of the Galactic Empire, becoming one of its most formidable adversaries during the era of the Galactic Civil War.",
+      "thumbnail": "/images/thrawn.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Admiral Ackbar",
+      "species": "Mon Calamari",
+      "homeworld": "Mon Cala",
+      "allegiance": "Rebel Alliance, Resistance",
+      "about": "Admiral Ackbar is a Mon Calamari military leader known for his strategic brilliance and iconic catchphrase, 'It's a trap!' He serves as the supreme commander of the Rebel Alliance fleet during the Galactic Civil War and later as a key figure in the Resistance against the First Order.",
+      "thumbnail": "/images/ackbar.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Grand Moff Tarkin",
+      "species": "Human",
+      "homeworld": "Eriadu",
+      "allegiance": "Galactic Empire",
+      "about": "Grand Moff Tarkin, also known as Wilhuff Tarkin, is a high-ranking official in the Galactic Empire known for his ruthless tactics and authoritarian rule. He serves as the governor of the Outer Rim territories and as the commander of the Death Star, a superweapon capable of destroying entire planets.",
+      "thumbnail": "/images/tarkin.jpg"
+    }
+  ],
+  "allegiance": [
+    "Jedi Order, Galactic Republic",
+    "Galactic Republic",
+    "Rebel Alliance",
+    "Resistance",
+    "Galactic Empire",
+    "Bouty Hunters",
+    "Sith",
+    "Jabba's criminal empire",
+    "First Order",
+    "Separatists",
+    "Jedi Order",
+    "Sith Order",
+    "Jedi Order"
+  ],
+  "homeworld": [
+    "Eriadu",
+    "Mon Cala",
+    "Csilla",
+    "Concord Dawn",
+    "Nal Hutta",
+    "Naboo",
+    "Socorro",
+    "Tatooine",
+    "Unknown",
+    "Kalee",
+    "Haruun Kal",
+    "Shili",
+    "Serenno",
+    "Kamino",
+    "Jakku",
+    "Dathomir",
+    "Alderaan",
+    "Kashyyyk",
+    "Stewjon",
+    "Corellia"
+  ]
+}
